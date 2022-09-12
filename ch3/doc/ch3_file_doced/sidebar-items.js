@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["File","fileは、アクセス可能なファイルを意味する。"]]});

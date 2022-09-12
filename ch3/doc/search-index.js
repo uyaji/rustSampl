@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"ch3_file_doced":{"doc":"ファイル群を段階的にシミュレートする。","t":[3,11,11,11,11,11,11,11,11,11,11,11],"n":["File","borrow","borrow_mut","fmt","from","into","len","name","new","try_from","try_into","type_id"],"q":["ch3_file_doced","","","","","","","","","","",""],"d":["…","","","","Returns the argument unchanged.","Calls <code>U::from(self)</code>.","ファイルの長さ（バイト数）を返す。","ファイル名を返す。","…","","",""],"i":[0,1,1,1,1,1,1,1,1,1,1,1],"f":[null,[[["",0]],["",0]],[[["",0]],["",0]],[[["",0],["formatter",3]],["result",6]],[[]],[[]],[[["",0]],["usize",0]],[[["",0]],["string",3]],[[["str",0]],["file",3]],[[],["result",4]],[[],["result",4]],[[["",0]],["typeid",3]]],"p":[[3,"File"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
